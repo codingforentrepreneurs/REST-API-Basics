@@ -1,11 +1,6 @@
 # REST API Basics
 
-This is a basic guide on how to build a REST API with Django &amp; Python. For much deeper depth, check out our new course on REST API: (https://kirr.co/90kxtx)
-
-
-Build a Rest API with Django/Python
-
-This is a basic guide on how to build a REST API with Django & Python. For much deeper depth, check out our new course on REST API: (https://kirr.co/90kxtx)
+This is a basic guide on how to build a REST API with Django & Python. For much deeper depth and understanding, check out our new course on [REST API](https://kirr.co/rfqyre).
 
 
 Software
@@ -14,7 +9,7 @@ Python 3.6.3 (https://kirr.co/ftq97z)
 Django Rest Framework 3.7.3 (https://kirr.co/svez0s)
 Django Rest Framework JWT 1.11.0 (https://kirr.co/vpibmo)
 
-Related Source Code: https://github.com/codingforentrepreneurs
+Related Source Code: https://kirr.co/9gqpkg
 
 
 Initial Setup
