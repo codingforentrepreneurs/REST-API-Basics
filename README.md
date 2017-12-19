@@ -3,16 +3,17 @@
 This is a basic guide on how to build a REST API with Django & Python. For much deeper depth and understanding, check out our new course on [REST API](https://kirr.co/rfqyre).
 
 
-Software
-Django 1.11.8 (https://kirr.co/hjogvt)
-Python 3.6.3 (https://kirr.co/ftq97z)
-Django Rest Framework 3.7.3 (https://kirr.co/svez0s)
-Django Rest Framework JWT 1.11.0 (https://kirr.co/vpibmo)
-
-Related Source Code: https://kirr.co/9gqpkg
+### Software
+- Django 1.11.8 (https://kirr.co/hjogvt)
+- Python 3.6.3 (https://kirr.co/ftq97z)
+- Django Rest Framework 3.7.3 (https://kirr.co/svez0s)
+- Django Rest Framework JWT 1.11.0 (https://kirr.co/vpibmo)
 
 
-Initial Setup
+### Related Source Code: https://kirr.co/9gqpkg
+
+
+### Initial Setup
 ```
 virtualenv -p python3 restapi-basics
 
@@ -30,7 +31,7 @@ django-admin startapp postings
 
 
 
-Update your settings to reflect the following:
+### Update your settings to reflect the following:
 
 ```
 INSTALLED_APPS = [
