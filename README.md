@@ -1,5 +1,7 @@
 # REST API Basics
 
+[![Rest API Basics LOGO](https://cfe2-static.s3-us-west-2.amazonaws.com/media/cfe-blog/rest-api-basics-with-the-django-rest-framework/rest_api_basics_logo.jpg)](https://www.codingforentrepreneurs.com/blog/rest-api-basics-with-the-django-rest-framework/)
+
 This is a basic guide on how to build a REST API with Django & Python. For much deeper depth and understanding, check out our new course on [REST API](https://kirr.co/rfqyre).
 
 
